@@ -5,7 +5,7 @@ public abstract class AbstractClass {
 	 abstract void english() ;
 	 
 	 
-	public void kannada() {
+	public void telugu() {
 		System.out.println("kannada is a language from bangalore");
 
 	}
